@@ -17,7 +17,7 @@ multiple constraints of variables. We have made efforts to develop a running cod
 to solve the differential equation using `fourth order Runge- Kutta Method` and also to run
 a simulation of the same on `COMSOLE Multiphysics Software`.
 
-<img src="/COMSOL/coms.png" width="650" height = "200"> <img style="padding-left: 50px"> <img src="/COMSOL/c++.png" width="200" height = "200">
+<img src="/COMSOL/coms.png" width="650" height = "200"> <img style="padding-left: 10px"> <img src="/COMSOL/c++.png" width="200" height = "200">
 
 ## Numerical Analysis
 In this research study, we employed the `Runge-Kutta Method` of 4th order as our numerical approach for solving a set of nonlinear coupled ordinary differential equations that define the system under investigation. These equations were transformed into initial value problems to enable their numerical solution using the chosen method. We also took into account the corresponding boundary conditions that apply to the system.
