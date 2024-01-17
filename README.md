@@ -14,7 +14,7 @@ The research work of Krishnamoorthy Pitchai focused on temperature relation of f
 particle with the power input of the microwave. It also advocated for the development of
 feedback control modules for modeling tools to re-work the simulation results for
 multiple constraints of variables. We have made efforts to develop a running code of `C++`
-to solve the differential equation using `fourth order Runge- Kutta Method` and also to run
+to solve the differential equation using `Fourth order Runge- Kutta Method` and also to run
 a simulation of the same on `COMSOLE Multiphysics Software`.
 
 <img src="/COMSOL/coms.png" width="650" height = "200"> <img style="padding-left: 10px"> <img src="/COMSOL/c++.png" width="100" height = "100">
